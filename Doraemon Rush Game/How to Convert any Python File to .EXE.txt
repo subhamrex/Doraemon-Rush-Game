@@ -1,0 +1,6 @@
+1.Install pip through cmd if you are not installed
+2.Then install pyinstaller by below command on cmd
+	pip install pyinstaller
+3.Now create Executable file by below command on cmd
+	pyinstaller --onefile -w main.py
+4.After completing above process we got main.exe file in dict folder   which is important. We have move this exe file into main directory  where we can access all our files.
